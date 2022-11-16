@@ -1,0 +1,17 @@
+1) Student example "done right"
+ - start again, in a new package, so you don't
+   lose anything you already did, and this can be "clean"
+ - Student has validation/protection to ensure it's always "good"
+ - ArrayList<String> for courses
+ - (If you can) initialize courses from variable length
+   argument list
+ - getName, getGpa public methods
+ - *** I did NOT demo this *** create an *instance* method
+   called toString takes no arguments, returns String (must
+   be public)
+   - you can use this as your "get pretty formatted text"
+   - also if you do s.o.p(aStudent) or s.o.p("Hello " + aStudent) it will "magically" use your toString method
+ - make "many" students (in an ArrayList<Student>)
+ - use for (x y : z) loop form when printing
+WHEN DONE RAISE HAND (and leave it up :)
+IF STUCK, no more than 90 seconds before you ask for help
